@@ -1,4 +1,4 @@
-This is version 3 app
+This is version 4 app
 echo "# deveOps" >> README.md
 git init
 git add README.md
